@@ -1,0 +1,15 @@
+E:\DevelopmentProjects\ProgrammingQuestions\ProgrammingQuestions\RomanToInt\bin\Debug\net6.0\RomanToInt.exe
+E:\DevelopmentProjects\ProgrammingQuestions\ProgrammingQuestions\RomanToInt\bin\Debug\net6.0\RomanToInt.deps.json
+E:\DevelopmentProjects\ProgrammingQuestions\ProgrammingQuestions\RomanToInt\bin\Debug\net6.0\RomanToInt.runtimeconfig.json
+E:\DevelopmentProjects\ProgrammingQuestions\ProgrammingQuestions\RomanToInt\bin\Debug\net6.0\RomanToInt.dll
+E:\DevelopmentProjects\ProgrammingQuestions\ProgrammingQuestions\RomanToInt\bin\Debug\net6.0\RomanToInt.pdb
+E:\DevelopmentProjects\ProgrammingQuestions\ProgrammingQuestions\RomanToInt\obj\Debug\net6.0\RomanToInt.csproj.AssemblyReference.cache
+E:\DevelopmentProjects\ProgrammingQuestions\ProgrammingQuestions\RomanToInt\obj\Debug\net6.0\RomanToInt.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevelopmentProjects\ProgrammingQuestions\ProgrammingQuestions\RomanToInt\obj\Debug\net6.0\RomanToInt.AssemblyInfoInputs.cache
+E:\DevelopmentProjects\ProgrammingQuestions\ProgrammingQuestions\RomanToInt\obj\Debug\net6.0\RomanToInt.AssemblyInfo.cs
+E:\DevelopmentProjects\ProgrammingQuestions\ProgrammingQuestions\RomanToInt\obj\Debug\net6.0\RomanToInt.csproj.CoreCompileInputs.cache
+E:\DevelopmentProjects\ProgrammingQuestions\ProgrammingQuestions\RomanToInt\obj\Debug\net6.0\RomanToInt.dll
+E:\DevelopmentProjects\ProgrammingQuestions\ProgrammingQuestions\RomanToInt\obj\Debug\net6.0\refint\RomanToInt.dll
+E:\DevelopmentProjects\ProgrammingQuestions\ProgrammingQuestions\RomanToInt\obj\Debug\net6.0\RomanToInt.pdb
+E:\DevelopmentProjects\ProgrammingQuestions\ProgrammingQuestions\RomanToInt\obj\Debug\net6.0\RomanToInt.genruntimeconfig.cache
+E:\DevelopmentProjects\ProgrammingQuestions\ProgrammingQuestions\RomanToInt\obj\Debug\net6.0\ref\RomanToInt.dll
