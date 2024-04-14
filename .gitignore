@@ -69,3 +69,8 @@ VehicleRoutingProblem/obj/project.nuget.cache
 VehicleRoutingProblem/obj/VehicleRoutingProblem.csproj.nuget.dgspec.json
 VehicleRoutingProblem/obj/VehicleRoutingProblem.csproj.nuget.g.props
 VehicleRoutingProblem/obj/VehicleRoutingProblem.csproj.nuget.g.targets
+/Arrays/.vs
+/Arrays/LargestSumContiguousSubArray/bin
+/Arrays/LargestSumContiguousSubArray/obj
+/OpenXML/bin
+/OpenXML/obj
