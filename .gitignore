@@ -74,3 +74,12 @@ VehicleRoutingProblem/obj/VehicleRoutingProblem.csproj.nuget.g.targets
 /Arrays/LargestSumContiguousSubArray/obj
 /OpenXML/bin
 /OpenXML/obj
+/Arrays/ASCIIValue/bin
+/Arrays/ASCIIValue/obj
+/Arrays/Permutations/bin
+/Arrays/Permutations/obj
+/Arrays/ZigZag/bin
+/Arrays/ZigZag/obj
+/OpenXML/.vs
+/OpenXML/.vs
+OpenXML/.vs/OpenXML/v17/.suo
